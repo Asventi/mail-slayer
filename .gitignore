@@ -1,0 +1,4 @@
+# classic gitignore for node projects
+
+node_modules
+.idea
